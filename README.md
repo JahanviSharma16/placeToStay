@@ -1,0 +1,3 @@
+URL for the website is on netlify 
+https://place-to-stay.netlify.app/
+visit this URL...
